@@ -1,0 +1,14 @@
+C:\ixs\5trpo\5trpo\5trpo\bin\Debug\net8.0\5trpo.exe
+C:\ixs\5trpo\5trpo\5trpo\bin\Debug\net8.0\5trpo.deps.json
+C:\ixs\5trpo\5trpo\5trpo\bin\Debug\net8.0\5trpo.runtimeconfig.json
+C:\ixs\5trpo\5trpo\5trpo\bin\Debug\net8.0\5trpo.dll
+C:\ixs\5trpo\5trpo\5trpo\bin\Debug\net8.0\5trpo.pdb
+C:\ixs\5trpo\5trpo\5trpo\obj\Debug\net8.0\5trpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ixs\5trpo\5trpo\5trpo\obj\Debug\net8.0\5trpo.AssemblyInfoInputs.cache
+C:\ixs\5trpo\5trpo\5trpo\obj\Debug\net8.0\5trpo.AssemblyInfo.cs
+C:\ixs\5trpo\5trpo\5trpo\obj\Debug\net8.0\5trpo.csproj.CoreCompileInputs.cache
+C:\ixs\5trpo\5trpo\5trpo\obj\Debug\net8.0\5trpo.dll
+C:\ixs\5trpo\5trpo\5trpo\obj\Debug\net8.0\refint\5trpo.dll
+C:\ixs\5trpo\5trpo\5trpo\obj\Debug\net8.0\5trpo.pdb
+C:\ixs\5trpo\5trpo\5trpo\obj\Debug\net8.0\5trpo.genruntimeconfig.cache
+C:\ixs\5trpo\5trpo\5trpo\obj\Debug\net8.0\ref\5trpo.dll
