@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Введите число n:");
-int n = -1;
+int n = int.Parse(Console.ReadLine());
 Console.WriteLine($"Введено {n}");
 
 int max = 0;
@@ -18,7 +18,7 @@ while (curr <= n)
             summCurr += temp % 10;
             temp /= 10;
         }
-        if (summCurr >= max)
+        if (summCurr >= maxSumm)
         {
             maxSumm = summCurr;
             max = curr;
